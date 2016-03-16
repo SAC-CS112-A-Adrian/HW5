@@ -43,3 +43,5 @@ public class HW5 {
 	}
 
 }
+
+// Good job...please see if you can show the users what numbers and what operator they entered
